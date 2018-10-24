@@ -1,8 +1,8 @@
 # testgithub
 Git Test Repo
 
-# Autor
+## Autor
 Marcos Nicolás Viñals Cerdá
 
-# Curso
+## Curso
 2º Desarrollo de Aplicaciones Web
